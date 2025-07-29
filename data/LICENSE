@@ -1,0 +1,28 @@
+########################################################################
+LICENSE TERM:
+ YOU CAN USE THE DATASETS FOR NON-PROFIT USE ONLY. REDISTRIBUTION OF THIS
+DATASETS, WITH OR WITHOUT MODIFICATION, IS PROHIBITED.
+
+########################################################################
+Source Acknowledgements:
+The datasets in this directory are derived from the supplementary materials of the following studies.
+Please cite the corresponding articles when using these datasets:
+
+Dataset 1
+Evaluation of 244,000 synthetic sequences reveals design principles to optimize translation in Escherichia coli
+Guillaume Cambray, Joao C Guimaraes, Adam Paul Arkin
+Nature Biotechnology, 2018 Nov; 36(10):1005–1015.
+doi: 10.1038/nbt.4238
+
+Dataset 2
+High-Throughput Mutational Analysis of a Twister Ribozyme
+Shungo Kobori, Yohei Yokobayashi
+Angewandte Chemie International Edition, 2016 Aug 22; 55(35):10354–10357.
+doi: 10.1002/anie.201605470
+
+Datasets 4 and 5
+Quantitative Activity Profile and Context Dependence of All Human 5’ Splice Sites
+Mandy S. Wong, Justin B. Kinney, Adrian R. Krainer
+Molecular Cell, 2018 Sep 20; 71(6):1012–1026.e3.
+doi: 10.1016/j.molcel.2018.07.033
+
